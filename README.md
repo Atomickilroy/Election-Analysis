@@ -13,31 +13,31 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 
 ## Resources
-- ### Software: Python 3.6.1, Visual Studio Code, 1.38.1
-- ### Data Source: election_results.csv
+- Software: Python 3.6.1, Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
 
 ## Summary of Election Results
 
 -------------------------
  ## Total Votes: 
-  - ## 369,711
+  - 369,711
 -------------------------
 
  ## County Votes:
- 1. ### Jefferson: 10.5% (38,855)
- 2. ### Denver: 82.8% (306,055)
- 3. ### Arapahoe: 6.7% (24,801)
+ 1. Jefferson: 10.5% (38,855)
+ 2. Denver: 82.8% (306,055)
+ 3. Arapahoe: 6.7% (24,801)
 ----------------------
 ## Largest County Turnout:
-   - ### Denver
+   - Denver
 ----------------------
 ## Candidates
- 1. ### Charles Casper Stockham: 
-    - ### Recieved 23.0% of the votes with 85,213 ballots in total.
- 2. ### Diana DeGette:
-    - ### Recieved 73.8% of the votes with 272,892 ballots in total.
- 3. ### Raymon Anthony Doane: 
-    - ### Recieved 3.1% of the votes with 11,606 ballots in total.
+ 1. Charles Casper Stockham: 
+    - Recieved 23.0% of the votes with 85,213 ballots in total.
+ 2. Diana DeGette:
+    - Recieved 73.8% of the votes with 272,892 ballots in total.
+ 3. Raymon Anthony Doane: 
+    - Recieved 3.1% of the votes with 11,606 ballots in total.
 -------------------------
 
 ## Winner of Election:  
@@ -50,3 +50,4 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Challenge Overview
 
 ## Challenge Summary
+
