@@ -2,14 +2,7 @@
 
 ## Project Overview
 
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won. 
-5. Determine the winner of the election based on popular vote. 
-
+The purpose of this project was to analysis the data of a local congressional election. The data was presented in a csv file and contained over 350,000 lines.<br> In order to properally analysis the data a Python script was written to loop over the dataset and calculation the winner based on the the parameters<br> of the different conditional statements. 
 
 
 ## Resources
@@ -17,7 +10,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 
 ## Summary of Election Results
-
+  
 -------------------------
  ## Total Votes: 
   - 369,711
@@ -49,5 +42,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Challenge Overview
 
-## Challenge Summary
+## Challenge Audit Summary
+
+
 
