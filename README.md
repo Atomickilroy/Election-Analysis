@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this project was to analysis the data of a local congressional election. The data was presented in a csv file and contained over 350,000 lines.<br> In order to properally analysis the data a Python script was written to loop over the dataset and calculation the winner based on the the parameters<br> of the different conditional statements. 
+The purpose of this project was to analysis the data of a local congressional election. The data was presented in a csv file and contained over 350,000 lines. In order to properly analysis the data the csv file was imported into a Python script. That was written to loop over the dataset and calculate the winner of the election based on the the parameters of the different conditional statements. 
 
 
 ## Resources
