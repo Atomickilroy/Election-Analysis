@@ -11,6 +11,7 @@ The purpose of this project was to analysis the data of a local congressional el
 - Data Source: election_results.csv
 
 ## Summary of Election Results
+![Election txt](https://github.com/Atomickilroy/Election-Analysis/blob/main/analysis/election_analysis.txt)
   
 -------------------------
  ## Total Votes: 
