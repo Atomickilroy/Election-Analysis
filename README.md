@@ -42,9 +42,14 @@ The purpose of this project was to analysis the data of a local congressional el
 - Winning Percentage: 73.8%
 -------------------------
 
-## Challenge Overview
+
 
 ## Challenge Audit Summary
+
+![Import](https://github.com/Atomickilroy/Election-Analysis/blob/main/import.png)
+
+For future elections the file_to_load and the file_to_save variables could be updated to accomadate a new cvs and txt file.
+This would allow the code to be reused with little to no changes. Allowing for a quicker turnaround on election results. 
 
 
 
