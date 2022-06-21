@@ -60,11 +60,15 @@ file_to_load = os.path.join("Resources", "election_results.csv")
 with open(file_to_save,"w") as txt_file:
     
     #Write some data to the file
-    txt_file.write("Hello World...Again" )
+    txt_file.write("Aropahoe, ")
+    txt_file.write("Denver, ")
+    txt_file.write("Jefferson")
 
+    txt_file.write(", Aropahoe, Denver, Jefferson")
 
+with open(file_to_save,"w") as txt_file:
 
-
+    txt_file.write("Counties in the Election\n------------\nAropahoe\nDenver\nJefferson")
 
 
 

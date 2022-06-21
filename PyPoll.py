@@ -90,7 +90,7 @@ with open(file_to_load) as election_data:
             f"------------------\n")
 
         print(election_results, end="")
-    #Save the final vote count to the txt file
+        #Save the final vote count to the txt file
 
         txt_file.write(election_results)
 
